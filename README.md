@@ -8,6 +8,8 @@ Após feito o fork, clone o repositório criado para o seu computador.
 
 Rode o `npm install`.
 
+_Caso tenha problemas em dar o `npm install`, delete o arquivo `package-lock.json` e rode o comando novamente_
+
 Vá para a branch master do seu projeto e execute o comando:
 
 `git branch`
