@@ -38,7 +38,7 @@ Para cada PR realize esse processo.
 
 ### O QUE SERÁ FEITO?
 
-Lembra de quando montamos um portfólio usando CSS, JS e HTML lá no começo do curso, no dia [3.1](https://app.betrybe.com/course/fundamentals/html-css/html-css-part-1)? Dessa vez faremos o mesmo exercício, porém agora usando o React e o deixaremos mais atrativo para pessoas recrutadoras ao mostrar que também sabemos programar testes automatizados :heart:
+Faremos um portfólio usando React e TDD! Com isso, teremos um portfólio atrativo para pessoas recrutadoras, mostrando que também sabemos programar testes automatizados :heart:
 
 ### COMEÇANDO OS EXERCÍCIOS
 
