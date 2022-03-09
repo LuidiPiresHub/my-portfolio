@@ -38,7 +38,7 @@ Para cada PR realize esse processo.
 
 ### O QUE SERÁ FEITO?
 
-Faremos um portfólio usando React e TDD! Com isso deixaremos atrativo para pessoas recrutadoras ao mostrar que também sabemos programar testes automatizados :heart:
+Faremos um portfólio usando React e TDD! Com isso, teremos um portfólio atrativo para pessoas recrutadoras, mostrando que também sabemos programar testes automatizados :heart:
 
 ### COMEÇANDO OS EXERCÍCIOS
 
