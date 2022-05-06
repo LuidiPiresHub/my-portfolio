@@ -5,7 +5,7 @@ class About extends React.Component {
     return (
       <div>About</div>
     );
-  };
+  }
 }
 
 export default About;

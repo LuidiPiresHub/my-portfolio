@@ -5,7 +5,7 @@ class Projects extends React.Component {
     return (
       <div>Projects</div>
     );
-  };
+  }
 }
 
 export default Projects;

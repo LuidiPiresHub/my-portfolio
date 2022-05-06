@@ -5,7 +5,7 @@ class Contact extends React.Component {
     return (
       <div>Contact</div>
     );
-  };
+  }
 }
 
 export default Contact;
