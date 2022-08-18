@@ -8,16 +8,61 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: rgb(40, 44, 52); */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.linksConteiner {
+  /* background-image: url(./images//background_header.jpeg); */
+  background-repeat: round;
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+  font-size: 50px;
+}
+
+.links {
+  text-decoration: none;
+  color: #282c34;
+}
+
+.myPhoto {
+  width: 300px;
+  border-radius: 100%;
+  border: 10px solid rgb(33, 33, 231)
+}
+
+body {
+  background-color:  rgb(40, 44, 52);
+}
+
+.aboutConteiner {
+  color: whitesmoke;
+}
+
+.aboutTitle {
+  font-size: 50px;
+}
+
+.skillsConteiner {
+  padding: 0;
+  width: fit-content;
+  margin: auto;
+}
+
+.skills {
+  display: flex;
+  align-self: flex-start;
 }
